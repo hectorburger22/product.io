@@ -1,0 +1,30 @@
+.shoe{
+  float: inherit;
+}
+
+th, td {
+  text-align: center;
+}
+table {
+  width:99vw;
+}
+
+th:active, td:active {
+  color: blue
+}
+
+th::after, td::after {
+  color:purple
+}
+
+a:link {
+  font-size: 25px
+}
+
+a{
+  text-align: right;
+}
+
+a:link, h1, h2, h3{
+  font-family: 'Permanent Marker' , cursive;
+}
